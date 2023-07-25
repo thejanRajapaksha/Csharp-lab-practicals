@@ -1,0 +1,8 @@
+C:\Users\oshan\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\oshan\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\oshan\source\repos\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\oshan\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\oshan\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.SuggestedBindingRedirects.cache
+C:\Users\oshan\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\oshan\source\repos\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\oshan\source\repos\Lab04\Lab04\obj\Debug\Lab04.pdb
